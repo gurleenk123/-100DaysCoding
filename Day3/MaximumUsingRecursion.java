@@ -1,3 +1,4 @@
+//Find maximum element in array using recursion
 public class MaximumUsingRecursion 
 {
 	public static int maxx(int arr[],int index)
